@@ -1,6 +1,6 @@
 # My Arduino/Elegoo Learning Playground 🛠️
 
-Welcome to my personal repository dedicated to Arduino/Elegoo learning! Here, I store small Arduino/Elegoo projects tailored for educational purposes. Each project is meticulously designed to deepen my understanding of various concepts in Arduino/Elegoo programming and electronics. From fundamental LED manipulation to intricate sensor interactions, these projects serve as invaluable hands-on experiments and learning exercises.
+Welcome to my personal repository dedicated to Arduino/Elegoo learning! Here, I store small Arduino/Elegoo projects tailored for educational purposes. Each project is designed to deepen my understanding of various concepts in Arduino/Elegoo programming and electronics. From fundamental LED manipulation to intricate sensor interactions, these projects serve as hands-on experiments and learning exercises.
 
 ## Exploration and Collaboration
 
