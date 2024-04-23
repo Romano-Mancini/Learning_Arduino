@@ -4,7 +4,6 @@ void setup() {
   pinMode(redPin, OUTPUT);
   pinMode(greenPin, OUTPUT);
   pinMode(bluePin, OUTPUT);
-  Serial.begin(9600);
 }
 
 void loop() {
@@ -27,7 +26,8 @@ void loop() {
     delay(10);
   }
   
-  for (i; i > 0; i--)
+  for (i; i > 0; i--) {
     analogWrite(bluePin, i);
     delay(10);
+  }
 }
