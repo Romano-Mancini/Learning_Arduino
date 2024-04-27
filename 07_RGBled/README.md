@@ -2,17 +2,6 @@
 
 This Arduino project implements a color cycling effect on an RGB LED. The project smoothly transitions the LED through various colors by changing the intensity of each color component.
 
-## Functionality
-
-The color cycling effect smoothly transitions the RGB LED through the following colors:
-1. Red
-2. Magenta
-3. Blue
-4. Cyan
-5. Green
-6. Yellow
-7. Red (return to the initial color)
-
 ### Usage
 
 1. Connect an RGB LED to your Arduino board, with the red pin connected to pin 5, the green pin connected to pin 3, and the blue pin connected to pin 6.
