@@ -14,6 +14,7 @@ The project pulses LEDs connected to specified pins by gradually increasing and 
 
 ### Additional Notes
 
+- Connect the recommended amount of resistance for your LEDs.
 - Ensure that the LEDs are connected properly, with the cathode connected to GND and the anode connected to the specified pins.
 - Adjust the pins assigned to each LED (red, yellow, green, blue, white) in the sketch according to your circuit setup.
 - Adjusting the delay values in the `LEDpulse()` function will change the speed of the pulsating effect.
