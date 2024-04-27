@@ -11,5 +11,3 @@ This project features an Elegoo Uno R3 microcontroller connected to a one-digit 
 ## Usage
 
 To utilize this project, you'll need an Arduino/Elegoo Uno R3 and a one-digit 7-segment LED (mine was 5161 series), along with a passive buzzer. Connect the components following the schematic in the demo video and upload the code to the microcontroller using the Arduino IDE or any compatible software. Once uploaded, the countdown and Fur Elise ringtone will commence upon powering.
-
-Feel free to customize the code or expand the project further according to your preferences or requirements. Enjoy tinkering with Arduino!
