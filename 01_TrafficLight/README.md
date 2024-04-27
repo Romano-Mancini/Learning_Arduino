@@ -17,6 +17,7 @@ The project cycles through the traffic light sequence:
 
 ### Additional Notes
 
+- Connect the recommended amount of resistance for your LEDs.
 - Ensure that the LEDs are connected properly, with the anode (longer leg) connected to the specified pins (0, 1, 2) and the cathode (shorter leg) connected to GND.
 - Adjust the delay times for each light (green, yellow, red) in the `loop()` function to customize the duration of each traffic light phase.
-- You can customize the behavior of each LED by modifying the delay times and adding additional logic to the `loop()` function.
+- You can customize the behavior of each LED by adding additional logic to the `loop()` function.
