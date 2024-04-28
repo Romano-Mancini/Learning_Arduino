@@ -19,7 +19,8 @@ Before using this code, make sure you have the LedControl library installed in y
 ## Additional Files
 
 This repository includes a file named `symbols.h`, which contains definitions for all ASCII symbols in ascending order. This file is essential for the proper functioning of the sketch and must be included in the Arduino project.
+The file can also be downloaded on my repository at the following link: https://github.com/Romano-Mancini/AsciiSymbols8x8Display
 
 ## Contributing
 
-Contributions to this project are welcome and encouraged! Whether you have suggestions for improvements, bug fixes, or additional features, feel free to contribute by opening an issue or submitting a pull request.
+Contributions to this project are welcome and encouraged! Whether you have suggestions for improvements, bug fixes, or additional features, feel free to contribute by opening an issue or submitting a pull request. This is especially true for improvements to the `symbols.h` file.
