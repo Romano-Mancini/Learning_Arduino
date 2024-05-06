@@ -8,7 +8,6 @@ The project allows the user to:
 
 - Control the position of the SG90 servo motor using a potentiometer.
 - Display the angle of the servo motor on a 4-digits LED display.
-- Adjust the brightness of the LED display.
 
 ## Usage
 
@@ -30,6 +29,4 @@ Ensure that the necessary libraries are installed in your Arduino IDE before upl
 
 ## Additional Notes
 
-- Adjust the wiring as demonstrated in the video tutorial or your specific setup.
-- The `SevSeg` library provides functions to control the 4-digits LED display, including setting brightness and displaying numbers.
-- The LED display updates every 5 milliseconds to show the current angle of the servo motor.
+- The LED display updates every 5 milliseconds to show the current angle of the servo motor. In total, there is a delay of 20 milliseconds between one analogRead and another. This is done to ensure that the servo motor has completed its movement before reading another position.
