@@ -9,7 +9,7 @@ Feel free to delve into the code and hardware setups provided. While these proje
 
 ## Licensing
 
-All works in this repository are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
+All works in this repository (unless specified otherwise) are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
 
 ### You are free to:
 
