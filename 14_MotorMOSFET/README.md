@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates a simple setup where a button is used to control the movement of a motor powered by a 9V battery. The motor is controlled using an IRFZ44N MOSFET, which acts as a switch to regulate the motor's power supply.
+This project demonstrates a simple setup where a button is used to control the movement of a motor powered by a 9V battery. The motor is controlled using an IRFZ44N MOSFET, which acts as a switch to regulate the motor's power supply. A diode is used to dissipate back voltage created from the motor.
 
 ## Functionality
 
