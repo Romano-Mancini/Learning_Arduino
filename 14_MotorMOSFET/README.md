@@ -10,7 +10,6 @@ The project achieves the following functionality:
 
 - Utilizes a button as a trigger to control the motor.
 - The motor moves when the button is pressed and stops when the button is released.
-- Powered by a 9V battery.
 - The IRFZ44N MOSFET acts as a switch to regulate the motor's power supply.
 
 ## Usage
