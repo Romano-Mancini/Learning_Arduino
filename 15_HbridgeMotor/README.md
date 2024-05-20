@@ -11,7 +11,7 @@ This Arduino project controls a DC motor using an L293D H-bridge motor driver. I
 - 2x switches
 - Breadboard
 - Jumper wires
-- 2x resistors
+- 2x 10 KΩ resistors
 
 ## Connections
 
