@@ -14,13 +14,11 @@ void setup() {
   pinMode(turnOnReader, INPUT);
   pinMode(directionReader, INPUT);
   pinMode(speedReader, INPUT);
-}
-
-void loop() {
-  // Toggles the state of 'turnedOn' and writes the new state to 'enablePin', while setting the speed
   digitalWrite(dirControlPin2, !direction);  
   digitalWrite(dirControlPin1, direction);
-  
+}
+
+void loop() {  
   // Toggles the state of 'turnedOn', reads and maps the 'speed' value
   if (digitalRead(turnOnReader)) {
     delay(300); // avoids bouncing period
