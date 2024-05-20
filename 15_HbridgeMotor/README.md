@@ -23,4 +23,5 @@ Connect the L293D motor driver to the Arduino and other components according to 
 2. Flip one switch to turn the motor on or off.
 3. Toggle the other switch to change the motor's direction.
 
-This code provides a basic example of controlling a DC motor with speed and direction control using an L293D H-bridge and Arduino. You can modify the code to suit your specific application needs.
+## Credits and Specific License
+Inspired by the official Arduino Project Book, this project is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 3.0, consistent with the license used by the authors.
